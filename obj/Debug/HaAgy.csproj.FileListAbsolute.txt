@@ -1,0 +1,6 @@
+C:\Sites\HaAgy\HaAgy\bin\Debug\HaAgy.exe.config
+C:\Sites\HaAgy\HaAgy\obj\Debug\HaAgy.csprojResolveAssemblyReference.cache
+C:\Sites\HaAgy\HaAgy\bin\Debug\HaAgy.exe
+C:\Sites\HaAgy\HaAgy\bin\Debug\HaAgy.pdb
+C:\Sites\HaAgy\HaAgy\obj\Debug\HaAgy.exe
+C:\Sites\HaAgy\HaAgy\obj\Debug\HaAgy.pdb
