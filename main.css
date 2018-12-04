@@ -1,0 +1,22 @@
+#top_menu li{
+	display:inline-block;
+	font: bold 14px tahoma;
+	padding:10px;
+    list-style:circle;
+    background-color: gray;
+}
+#top_menu{
+    background-color: gray;
+}
+#bd{
+    height: auto;
+    width: auto;
+}
+#tt{
+    background-image: url(IMG-20181203-WA0022.jpg);
+    width: auto;
+    height: 900px;
+    
+    
+
+}
