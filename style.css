@@ -1,0 +1,58 @@
+         body{
+             font-family: Arial, Helvetica, Sans-serif;
+         }
+            header{
+                display: float;
+                background: #364244;
+                padding: 20px;
+            }
+           header h1{
+            color:#ff953f;
+            margin-top: 0;
+            float: left;
+            width: 25%;
+            }
+            ul,
+            ol{
+                list-style: none;
+            }
+            nav{
+                font-family: 'Noto Serif TC' , serif;
+            }
+            nav li{
+                display: inline-block;
+                margin-right: 15px;
+                padding: 3px;
+            }
+            nav li a{
+                text-decoration: none;
+                color: #ffffff;
+            }
+
+            .containe{
+                max-width: 80%;
+                margin: 0 auto;
+                margin-top: 30px;
+            }
+            section{
+                display: inline-block;
+            }
+            #left-section{
+                float: left;
+                width: 30%;
+            }
+            #main-section{
+
+            }
+            #right-section{
+                width: 20%; 
+            }
+            footer{
+                    background: #111110;
+                    padding: 25px; 
+            }
+            footer p{
+                text-align: center;
+                color: rgb(88, 58, 58);
+            }
+            
